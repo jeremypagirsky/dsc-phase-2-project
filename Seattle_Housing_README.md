@@ -19,10 +19,8 @@ Homes in Seattle were selected out of the original dataset. The primary statisti
 ## Results
 
 The largest predictor for housing prices is a home's square footage.
-![square_feet](./images/sqft_price.png/)
 
 The majority of zip codes in Seattle also predicted housing prices.
-![zip_codes](./images/zips.png/)
 
 ## Conclusions
 
