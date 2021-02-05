@@ -41,9 +41,9 @@ Further analyses may consider the following for deeper insights into this model:
 
 ## For More Information
 
-Please review the full analysis in [the Jupyter Notebook](./Seattle_Housing_LR_Model.ipynb) or the [presentation](./DS_Project_Presentation.pdf).
+Please review the full analysis in [the Jupyter Notebook](./Seattle_Housing_LR_Model.ipynb) or the [presentation](./Seattle_Housing_Price_Prediction.pdf).
 
-For any additional questions, please contact **name & email, name & email**
+For any additional questions, please contact ***Jeremy Pagirsky (jeremy.pagirsky@gmail.com)**
 
 ## Repository Structure
 
